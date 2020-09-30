@@ -1,4 +1,4 @@
-# propofol-induced-betabuzz-in-EEG
+# Propofol-induced-BetaBuzz-in-EEG
 
 The  MATLAB  codes  needed  to  reproduce  the  presented
 results in  this  work are avliable upon request by email. 
